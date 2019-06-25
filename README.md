@@ -19,9 +19,9 @@ This repository serves us to host all our iOS libraries where it helps to unders
   
   - [Alertify](https://github.com/karthikAdaptavant/Alertify/blob/master/README.md) - An customized ActionSheet
   
-  - [AppLoader](https://github.com/karthikAdaptavant/AppLoader/blob/master/README.md) - Loading Indicator 
+  - [AppLoader](https://github.com/karthikAdaptavant/AppLoader/blob/master/README.md) - To display loading Indicator
   
-  - [MaterialLoader](https://github.com/sathishvgs/FullMaterialLoader/blob/master/README.md) - Loading Indicator
+  - [MaterialLoader](https://github.com/sathishvgs/FullMaterialLoader/blob/master/README.md) - To display Material loader
   
   - [CustomSegmentController](https://github.com/sathishvgs/CustomSegmentControl/blob/master/README.md) - An Customized Segment Controller
   
