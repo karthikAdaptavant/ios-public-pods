@@ -6,7 +6,7 @@ This repository serves us to host all our iOS libraries where it helps to unders
 
   - [List of Pods](#list-of-pods)
   - [Usage](#usage)
-  - [Referrences](#References)
+  - [References](#References)
 
 ## List Of Pods
   
